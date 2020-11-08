@@ -1,2 +1,2 @@
-var liczba1 = 100;
+const liczba1 = 100;
 liczba1
